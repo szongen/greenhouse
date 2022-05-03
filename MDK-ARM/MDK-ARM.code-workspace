@@ -1,0 +1,31 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "app_led.h": "c",
+            "bsp_multitimer.h": "c",
+            "bsp.h": "c",
+            "api_dht11.h": "c",
+            "app_s_key.h": "c",
+            "stm32f1xx_hal.h": "c",
+            "main.h": "c",
+            "time.h": "c",
+            "bsp_dht.h": "c",
+            "app_dht11.h": "c",
+            "app.h": "c"
+        }
+    },
+    "extensions": {},
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "tasks": {
+        "version": "2.0.0",
+        "tasks": []
+    }
+}
